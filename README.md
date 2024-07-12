@@ -1,0 +1,1 @@
+A PWM (Pulse Width Modulation) controller in LTSpice is a simulation circuit used to modulate the duty cycle of a pulse signal, effectively controlling power delivery to a load. It typically involves a comparator, a reference signal, and a feedback mechanism to adjust the output based on desired criteria
